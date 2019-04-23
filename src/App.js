@@ -3,7 +3,7 @@ import About from './routes/about/index';
 import Users from './routes/users/index';
 import Register from './routes/users/register';
 import { Route, Switch } from 'react-router-dom';
-import SuccessRegister from './routes/users/sucess';
+import SuccessRegister from './routes/users/success';
 import './App.css';
 
 
