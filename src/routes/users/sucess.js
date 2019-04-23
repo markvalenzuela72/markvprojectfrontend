@@ -9,11 +9,11 @@ const SucessMessage = (props) => {
       </div>
     </div>
 }
-class SucessRegister extends Component {
+class SuccessRegister extends Component {
   render(){
     return <Layout>
         <SucessMessage />
       </Layout>
   }
 }
-export default SucessRegister;
+export default SuccessRegister;

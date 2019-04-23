@@ -32,7 +32,7 @@ class Register extends Component {
   }
   render(){
     return (<Layout>
-      {this.state.isregister ? <Redirect to="/sucess/"/> : null}
+      {this.state.isregister ? <Redirect to="/success/"/> : null}
       <div className="row">
         <div className="col">
           <h1 className="heading">Register User</h1>
